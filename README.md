@@ -1,6 +1,6 @@
 # 认识 React
 React 是 facebook 开源的一套框架，可总结为以下几个特点：
-- 基于 JSX 语法糖实现
+- 基于 JSX 语法糖实现1
 - JUST THE UI：在多层架构的设计模式中，React 并不算 MVC 的架构，它可理解为 MVC 的 V 层。
 - VIRTUAL DOM：虚拟DOM，是轻量的 js 对象，只保留了原生 dom 的一些常用的属性和方法。
 - DATA FLOW： React是单向响应的数据流。
